@@ -1,5 +1,5 @@
 # Restaurant Searching Through Google Map using React Native
-The application searchs all restaurants in a city and show their positions on the Google Map. For this application blelow packages were used.
+The application searchs all restaurants in a city and show their positions on the Google Map. For this application below packages were used.
 
 - react-native-maps
 - react-native-vector-icons
