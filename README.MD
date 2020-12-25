@@ -6,6 +6,9 @@ The application searchs all restaurants in a city and show their positions on th
 - react-native-modal
 - axios
 
+## Restful API
+Restaurants information was retrieved from [opentable](https://opentable.herokuapp.com/)
+
 ## Overview
 
 ![Alt Text](restaurantSearchApp.gif)
